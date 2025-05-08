@@ -1,0 +1,7 @@
+108,Ana Martínez,3000.0,2024-12-25,Premium
+110,Carlos Díaz,2500.0,2024-09-15,Vip
+105,María García,2200.5,2024-11-20,Regular
+107,Laura Sánchez,1800.9,2024-10-01,Premium
+101,Juan Pérez,1500.75,2025-01-15,Premium
+103,Luis Rodríguez,1200.8,2025-02-10,Regular
+102,Pedro López,950.2,2025-03-01,Regular
